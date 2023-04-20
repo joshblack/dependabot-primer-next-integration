@@ -1,6 +1,6 @@
 {
   "private": true,
   "dependencies": {
-    "@primer/react": "35.20.1-rc.fb818954"
+    "@primer/react": "35.25.0"
   }
 }
